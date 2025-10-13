@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "molstar": "^5.0.0",
+    "vitepress": "^2.0.0-alpha.12"
+  },
+  "volta": {
+    "node": "24.10.0",
+    "npm": "11.6.2"
+  }
+}
