@@ -6,7 +6,7 @@ hero:
   name: "Mol* Guide"
   text: "An Opinionated Guide to Mol*"
   image: 
-    src: /molstar-logo.png
+    src: /molstar-logo.svg
     alt: molstar
   tagline: For devs who struggled with Mol*, with my experiences
   actions:
