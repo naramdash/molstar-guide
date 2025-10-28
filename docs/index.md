@@ -44,9 +44,9 @@ import { DefaultPluginSpec } from 'molstar/lib/mol-plugin/spec'
 
 const classes = useCssModule()
 
-const plugin = new PluginContext(DefaultPluginSpec())
 
 onMounted(() => {
+  const plugin = new PluginContext(DefaultPluginSpec())
   const container = document.createElement('div')
   container.classList.add(classes.molstarContainer)
 

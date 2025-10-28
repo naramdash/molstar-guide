@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "molstar": "^5.0.0",
+    "molstar": "^5.1.2",
     "vitepress": "^2.0.0-alpha.12"
   },
   "volta": {
